@@ -1,2 +1,1 @@
-# nodejs-ecom
-e-commerce 
+# Mern-Ecommerce
